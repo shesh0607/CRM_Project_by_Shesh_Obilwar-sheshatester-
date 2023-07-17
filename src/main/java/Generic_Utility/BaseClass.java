@@ -34,6 +34,7 @@ public class BaseClass {
 	{
 		System.out.println("Parallel execution");
 	}
+	
 	//@Parameters("BROWSER")
 	@BeforeClass
 	public void BC() throws IOException
